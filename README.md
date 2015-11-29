@@ -1,3 +1,5 @@
+About: Bruteforce Web applications using TOR proxy cicling through different IPs to avoid firewall blocks
+
 -- DEBIAN APTs
 python
 python-torctl
